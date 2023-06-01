@@ -1,6 +1,6 @@
 # EGNSS4CAPSERVICES
 
-- Install PHP version 8
+- Install PHP version 8, enable GDI module in PHP
 - Install Apache2
 - Install MySql Database following instructions on https://github.com/EGNSS4ALL/EGNSS4CAPDATABASE
 - Copy project files in a web accessible directory of Apache
